@@ -132,6 +132,14 @@ class J4XD:
 
 ---
 
+## `> ls ~/trophies`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=J4XD&theme=matrix&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%"/>
+</p>
+
+---
+
 ## `> ssh connect@j4xd`
 
 <p align="center">
